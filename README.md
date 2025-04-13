@@ -6,4 +6,4 @@ Key Components of this webpage:
 
 3. Main Content: This central section serves as the heart of the webpage, showcasing the primary information or functionality. It encompasses text, images, and interactive elements.
 
-4. Footer: The footer displays address and location details. It also includes sharing options for various social media platforms.
+4. Footer: The footer displays address and location details. It also includes sharing options for various social media platforms like facebook, twitter etc.
